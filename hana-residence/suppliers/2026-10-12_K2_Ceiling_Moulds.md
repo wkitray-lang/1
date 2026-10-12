@@ -40,3 +40,23 @@ D = diameter, R = radius, +80/+130/+800 etc. = profile step heights (mm).
 Sell at sheet convention cost/(1-30%) = RM95,942.86.
 
 To get from K2: installation rate, flat ceiling rate (9mm / MR board), L-box rate, delivery, material (plaster vs GRG), and the RCP mark-up showing where A–J sit.
+
+## Area mapping used in quotation (12 Oct) – my reading from 3D R1, confirm with K2's marked plan
+
+| Area | Profiles | Cost RM | Sell RM (÷0.7) | Confidence |
+|---|---|---|---|---|
+| Foyer dome Ø2000 | GF-A | 2,800 | 4,000.00 | high |
+| Lounge U-channel 5700x3300 | GF-B | 2,250 | 3,214.29 | medium |
+| Living void-edge bulkhead (800 deep) | GF-D + E | 10,980 | 15,685.71 | high |
+| Dining curved corner box | GF-C + C1 | 5,400 | 7,714.29 | medium |
+| Dry Kitchen coffer Ø2400 | GF-F | 3,400 | 4,857.14 | high |
+| Dry Kitchen curved edge | GF-I + J | 4,680 | 6,685.71 | medium |
+| Parents Room curved edge | GF-G | 850 | 1,214.29 | high (= old quote RM850) |
+| Staircase stepped soffit | GF-H | 1,800 | 2,571.43 | medium |
+| Corridor dome Ø2000 | FF-A | 3,200 | 4,571.43 | medium |
+| Master Bedroom perimeter curve | FF-B + B1 | 11,200 | 16,000.00 | high |
+| Son's Room perimeter curve | FF-C + C1 | 9,700 | 13,857.14 | LOW (could be Family Area) |
+| Family Area curved edge | FF-D | 1,600 | 2,285.71 | low |
+| Walk-in Closet Ø2400 | FF-E | 3,400 | 4,857.14 | high |
+| Daughter's Room curved edge | FF-F | 2,100 | 3,000.00 | low |
+| Void U-channel along 8.1m window | FF-G | 3,800 | 5,428.57 | low |
