@@ -1,0 +1,47 @@
+section,keyword,unit,cost,sell,margin_rule,source,date,notes
+Ceiling,plaster board,sqft,4.00,5.71,0.7,K TWO 2026,2026-10-12,landed 9mm; min 800sqft
+Ceiling,l-box,ft,14.50,20.71,0.7,K TWO 2026,2026-10-12,
+Ceiling,light trough,ft,15.50,22.14,0.7,K TWO 2026,2026-10-12,300mm cove
+Ceiling,curtain pelmet,ft,15.50,22.14,0.7,K TWO 2026,2026-10-12,
+Ceiling,curtain light trough,ft,16.50,23.57,0.7,K TWO 2026,2026-10-12,
+Ceiling,fan holder,nos,50,71.43,0.7,K TWO 2026,2026-10-12,
+Ceiling,access panel,nos,145,207.14,0.7,K TWO 2026,2026-10-12,aluminium 24in
+Ceiling,chandelier support,nos,30,42.86,0.7,K TWO 2026,2026-10-12,
+Ceiling,magnetic track,ft,24,34.29,0.7,K TWO 2026,2026-10-12,install only
+Ceiling,groove line,ft,16,22.86,0.7,K TWO 2026,2026-10-12,9mm; 18mm cost 20
+Ceiling,aircond opening,nos,50,71.43,0.7,K TWO 2026,2026-10-12,
+Electrical,lighting point,pt,,140,,Groo,2026-10-12,
+Electrical,13a,pt,,195,,Groo,2026-10-12,user kept 195
+Electrical,15a,pt,,,,Groo,2026-10-12,rate per Hana sheet
+Electrical,aircond point,pt,,450,,Groo,2026-10-12,
+Electrical,2-way,pt,,120,,Groo,2026-10-12,
+Electrical,32a,pt,,650,,Groo,2026-10-12,hob
+Electrical,curtain motor,pt,,195,,Groo,2026-10-12,
+Electrical,main db,L/S,,4500,,Groo,2026-10-12,
+Electrical,pump,pt,,450,,Groo,2026-10-12,pond pump
+Electrical,irrigation,pt,,250,,Groo,2026-10-12,
+Electrical,outdoor socket,pt,,280,,Groo,2026-10-12,weatherproof
+Electrical,garden light,pt,,180,,Groo,2026-10-12,
+Electrical,joinery led,pt,,160,,Groo,2026-10-12,
+Electrical,bgm,pt,,120,,Groo,2026-10-12,speaker cabling
+Electrical,amp socket,pt,,195,,Groo,2026-10-12,
+Electrical,tv point,pt,,280,,Groo,2026-10-12,
+Electrical,exhaust,pt,,140,,Groo,2026-10-12,
+Plumbing,garden tap,nos,,350,,Groo,2026-10-12,
+Plumbing,cap-off,L/S,,800,,Groo,2026-10-12,bathroom decommission
+Plumbing,relocation,L/S,,2800,,Groo,2026-10-12,WC + floor trap
+WetWorks,threshold,nos,,380,,Groo,2026-10-12,
+WetWorks,core drill,nos,,250,,Groo,2026-10-12,
+WetWorks,re-plaster,sqft,,10,,Groo,2026-10-12,
+WetWorks,self-levelling,sqft,,4.5,,Groo,2026-10-12,Porter mkt 3-4 cost
+Flooring,engineered,sqft,,42,,Porter/Groo,2026-10-12,Art Deco E30 supply+install
+DoorsWindows,awning,sqft,,75,,Groo,2026-10-12,
+Tiles,limestone,sqm,,95,PC,Groo,2026-10-12,supply only +20% wastage
+Tiles,travertine,sqm,,95,PC,Groo,2026-10-12,
+Tiles,bellezza,sqm,,85,PC,Groo,2026-10-12,
+Tiles,900x1800,pc,250,285,,Dong Peng,2026-10-09,
+Tiles,600x600,sqm,,35,PC,Groo,2026-10-12,outdoor
+Curtain,double volume lifting,set,5800,8285.71,0.7,Curtain supplier,2026-10-11,15ft x 8120mm incl install
+Curtain,motorised track,layer,1500,2142.86,0.7,Curtain supplier,2026-10-11,
+Preliminaries,scaffolding,L/S,2450,3500,0.7,Groo,2026-10-11,double volume void
+Aircond,installation,set,,,0.75,QS guide,2026-10-12,CEILING(cost/0.75,5)
