@@ -4,6 +4,7 @@
 `- YYYY-MM-DD [项目] 规则 —— 原因`
 
 ## 价格 / 毛利
+- 2026-10-13 [Bromelia] Project Management 改为 RM2.8/sqft × built-up 面积（取代 1.5%）。
 - 2026-10-13 [Bromelia] 新 7-Step Flow：ID 设计费 RM8/sqft（built-up），单独列在报价单最前面，PM 不算在设计费上。
 - 2026-10-13 [Bromelia] 付款条款：Landed 10/25/25/25/10/5（6 期），Condo<250k 10/40/30/15/5（5 期），描述要写 Step 编号。
 - 2026-10-13 [Bromelia] 拆旧砖 RM8/sqft（地 + 墙）。

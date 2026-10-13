@@ -68,9 +68,8 @@
 - [ ] ID 设计费 section（RM8/sqft built-up）
 - [ ] 表头有预估搬入日期
 - [ ] 付款条款按 Landed 6 期 / Condo 5 期
-- [ ] PM 1.5% 只算施工部分，不含设计费
+- [ ] PM = RM2.8/sqft × built-up 面积
 - [ ] 日期格式、工地地址正确
-- [ ] PM 1.5%
 - [ ] 折扣是负数
 - [ ] 付款条款金额 = 总价 × %
 - [ ] Exclusions 没有重复、没有漏（gate / JMB）

@@ -70,7 +70,7 @@
 
 ## R0 更新（7-Step Flow）
 - 加 ID 设计费：2,400 sqft × RM8 = RM19,200（行 15–17）
-- PM 1.5% 改为只算施工部分（K19:K165）
+- PM 改为 RM2.8/sqft × 2,400 = RM6,720
 - 付款条款改成 7-Step Flow Landed 6 期描述
 - 表头加 Est. Move-in: TBC
 - Subtotal RM322,565.3；Discount −2% −6,451.3；Grand Total RM316,114.0

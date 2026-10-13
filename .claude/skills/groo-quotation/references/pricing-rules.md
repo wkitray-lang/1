@@ -13,7 +13,7 @@
 | 木作 | 按尺 rate（见 joinery-formulas.md），不是 cost+margin | `=E/300*1250` | Groo 标准 |
 | 景观（分包） | 按分包价比例放大到目标卖价 | `=ROUND(54280/24.7*138000/125800,2)` | Hana |
 | ID 设计费 | RM8 / sqft × built-up 面积，单独一个 section 放最前面 | H `=C10`，I `8` | 7-Step Flow，13 Oct |
-| Project Management | 施工总额 1.5%（**不含 ID 设计费**），L/S | `=ROUND(SUM(K<施工第一行>:K<last>)*1.5%,2)` | Hana 13 Oct |
+| Project Management | **RM2.8 / sqft × built-up 面积**（2026-10-13 起；Hana 旧做法是施工总额 1.5%） | H `=C10`，I `2.8`，G `sqft` | Bromelia，Raymond 确认 |
 | 折扣 | 负数公式 | `=-ROUND(K<subtotal>*2%,2)` | Hana（⚠️ 不能写 `=K421-2%`） |
 
 ## 客户自付 / 我们只选不赚
