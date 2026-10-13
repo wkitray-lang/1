@@ -1,0 +1,51 @@
+# Project Brief – Bromelia, Bukit Puchong (JY)
+
+| 项目 | 内容 |
+|---|---|
+| 类型 | 3 层 semi-D landed，净屋身 20 × 40 ft，3 层，built-up 约 2,400 sqft |
+| 范围 | Living、Dining、Kitchen、Home Office（1F）、Master Bedroom + WIC（2F）、Powder Room、Master Bath |
+| 资料 | BROMELIA_PUCHONG_MOODBOARD_PROPOSAL_JY_1.pdf（第 2 页平面图，红色 = 木作） |
+| 比例 | 按图上 6,175 × 12,200 尺寸线量，约 12 mm/px，误差约 ±100 mm |
+
+## 木作（W × D mm，从平面图量）
+| 楼层 | 项目 | W | D | RM/ft | 预估 RM |
+|---|---|---|---|---|---|
+| GF | Kitchen back storage tall cabinet | 1700 | 600 | 1350 | 7,650 |
+| GF | Dry kitchen base cabinet | 2900 | 600 | 750 | 7,250 |
+| GF | Dry kitchen wall cabinet | 2900 | 350 | 650 | 6,283 |
+| GF | Island c/w pull-out dining table | 1650 | 800 | 650 | 3,575 |
+| GF | Dining side cabinet + display | 3200 | 350 | 1350 | 14,400 |
+| GF | TV feature wall | 3600 | – | 1150 | 13,800 |
+| GF | Hidden door panel | 900 | – | 1100 | 3,300 |
+| GF | Curve platform + TV console | 4000 | 500 | 650 | 8,667 |
+| GF | Open tall display unit | 450 | 450 | 1350 | 2,025 |
+| GF | Foyer peg board H2400 | 850 | 250 | 1150×0.8 | 2,607 |
+| GF | Shoe cabinet | 2050 | 400 | 1250 | 8,542 |
+| 1F | Home office storage + open display | 2750 | 550 | 1350 | 12,375 |
+| 2F | WIC wardrobe L | 2400 | 600 | 1250 | 10,000 |
+| 2F | WIC wardrobe R | 3350 | 600 | 1250 | 13,958 |
+| 2F | Dressing table | 1300 | 500 | 450 | 1,950 |
+| 2F | Rattan hidden door panel | 1200 | – | 1100 | 4,400 |
+| | PS cabinetry accessories | | | | 5,000 |
+| | **合计** | | | | **125,782** |
+
+## 房间面积（天花）
+| 房间 | 尺寸 mm | sqft | 周长 ft |
+|---|---|---|---|
+| Living | 3500 × 6060 | 228 | 63 |
+| Living TV / passage | 1300 × 4700 | 66 | – |
+| Foyer | 1460 × 1380 | 22 | – |
+| Dining | 3780 × 3900 | 159 | 50 |
+| Dry Kitchen + back | 2160 × 4320 + 2040 × 1500 | 133 | 43 |
+| Home Office | 2700 × 4600 | 134 | 48 |
+| Master Bedroom | 3920 × 5170 − stair notch | 205 | 60 |
+| WIC | 2880 × 3430 | 106 | 41 |
+| Powder Room | 2280 × 1770 | 43 | 27 |
+| Master Bath | 1410 × 3430 | 52 | 32 |
+
+## Questions / TBC
+- 层高（瓷砖贴到几米？按 2.7 m 估）
+- 鞋柜在屋外 car porch 前墙？材料要防潮
+- Powder room kit kat 砖贴全高还是半墙？
+- 厨房 fridge 宽度、要不要 tall unit 包冰箱
+- 拆砖单价（费率库还没有，按 RM6/sqft 估）
