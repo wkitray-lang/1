@@ -12,7 +12,7 @@
 
 ## 表头
 - F6 日期，numberFormat `dd mmm yyyy`（不然会变 10/8/2026）。
-- F9 工地地址；J8 公司地址（Wisma JAG）；C10 面积 sqft。
+- F9 工地地址；J8 公司地址：No.143 Jalan Desa Utama, Taman Danau Desa, 58100 Kuala Lumpur（2026-10-13 起，旧的 Wisma JAG 不再用）；C10 面积 sqft。
 
 ## 尾部顺序
 Project Management（1.5% L/S）→ SUBTOTAL → Discount（负数）→ GRAND TOTAL →
