@@ -4,6 +4,7 @@
 `- YYYY-MM-DD [项目] 规则 —— 原因`
 
 ## 价格 / 毛利
+- 2026-10-13 [Bromelia] 拆旧砖 RM8/sqft（地 + 墙）。
 - 2026-10-12 [Hana] 天花毛利用 30%，不是 QS 指南的 45% —— Raymond 纠正。
 - 2026-10-12 [Hana] Smart home 只加 15%，按 AETHO 格式逐项列，不要 lump sum —— 用户说 lump sum 太随便。
 - 2026-10-12 [Hana] 13A 插座维持 RM195。
@@ -12,6 +13,10 @@
 - 2026-10-12 [Hana] Powder vanity RM175/sqft，长宽超过 300 的部分进位到 0.5 sqft。
 
 ## 写法 / 结构
+- 2026-10-13 [Bromelia] Landed 默认层高 3.0m，drop ceiling 300mm → 浴室墙砖贴到 2.7m。
+- 2026-10-13 [Bromelia] 冰箱位要做 tall unit 包冰箱（900W），算 1350/ft。
+- 2026-10-13 [Bromelia] 户外 / 半户外鞋柜用 plywood laminate（防潮）。
+- 2026-10-13 [Bromelia] Powder room 小砖（kit kat）只贴半高，上面用 600x600 / 600x1200 大砖。(project-specific)
 - 2026-10-12 [Hana] 定制天花模具按区域分行，不能 lump sum。
 - 2026-10-12 [Hana] 木作要写 W/D/H，用 `=E/300*rate` 公式（参考 Parents bedhead 写法）。
 - 2026-10-12 [Hana] D:F 在 E/F 空的行合并，报价单短一点。

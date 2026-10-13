@@ -11,6 +11,7 @@
 | 楼层 | 项目 | W | D | RM/ft | 预估 RM |
 |---|---|---|---|---|---|
 | GF | Kitchen back storage tall cabinet | 1700 | 600 | 1350 | 7,650 |
+| GF | Fridge tall unit (900 fridge) | 900 | 600 | 1350 | 4,050 |
 | GF | Dry kitchen base cabinet | 2900 | 600 | 750 | 7,250 |
 | GF | Dry kitchen wall cabinet | 2900 | 350 | 650 | 6,283 |
 | GF | Island c/w pull-out dining table | 1650 | 800 | 650 | 3,575 |
@@ -20,14 +21,14 @@
 | GF | Curve platform + TV console | 4000 | 500 | 650 | 8,667 |
 | GF | Open tall display unit | 450 | 450 | 1350 | 2,025 |
 | GF | Foyer peg board H2400 | 850 | 250 | 1150×0.8 | 2,607 |
-| GF | Shoe cabinet | 2050 | 400 | 1250 | 8,542 |
+| GF | Shoe cabinet, plywood laminate (outdoor) | 2050 | 400 | 1250 | 8,542 |
 | 1F | Home office storage + open display | 2750 | 550 | 1350 | 12,375 |
 | 2F | WIC wardrobe L | 2400 | 600 | 1250 | 10,000 |
 | 2F | WIC wardrobe R | 3350 | 600 | 1250 | 13,958 |
 | 2F | Dressing table | 1300 | 500 | 450 | 1,950 |
 | 2F | Rattan hidden door panel | 1200 | – | 1100 | 4,400 |
 | | PS cabinetry accessories | | | | 5,000 |
-| | **合计** | | | | **125,782** |
+| | **合计** | | | | **129,832** |
 
 ## 房间面积（天花）
 | 房间 | 尺寸 mm | sqft | 周长 ft |
@@ -43,9 +44,18 @@
 | Powder Room | 2280 × 1770 | 43 | 27 |
 | Master Bath | 1410 × 3430 | 52 | 32 |
 
-## Questions / TBC
-- 层高（瓷砖贴到几米？按 2.7 m 估）
-- 鞋柜在屋外 car porch 前墙？材料要防潮
-- Powder room kit kat 砖贴全高还是半墙？
-- 厨房 fridge 宽度、要不要 tall unit 包冰箱
-- 拆砖单价（费率库还没有，按 RM6/sqft 估）
+## 已确认（13 Oct）
+- 层高 3.0m，drop ceiling 300mm → 墙砖贴到 2.7m
+- 鞋柜：plywood laminate
+- Powder room：kit kat 半高（按 1.2m），上面 + 地用 600x600 / 600x1200 大砖
+- 冰箱 900W，要 tall unit
+- 拆砖 RM8/sqft
+
+## 浴室（更新）
+| | Powder | Master Bath |
+|---|---|---|
+| 拆砖 @8 | 260 sqft = 2,080 | 308 sqft = 2,464 |
+| 铺砖 @35 | 9,100 | 10,780 |
+| 供货 | kit kat 8.8 m² 1,261 + 600x1200 26 pcs @95 2,470 | 4,120 |
+| 地漏 / 门槛 | 137 | 654 |
+| 小计 | 15,048 | 18,018 |
