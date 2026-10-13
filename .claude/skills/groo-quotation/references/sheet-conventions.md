@@ -39,6 +39,8 @@ Payment Terms（H 放 %，I 放 `=ROUND($K$<grand>*H<row>,2)`）→ Exclusions �
 - 表头放「Est. Move-in」预估搬入日期（E10/F10）；Step 4 起写进合同。
 
 ## 格式
+- **Bold + underline 只用在区域标题行**（Master Bedroom、Kitchen、Powder Room、Outdoor 等）。普通 item 行不 bold、不 underline；类别行（Tiles Material Supply、木作材料说明）只 bold；附注行 italic。
+- 复制格式时不要用 Hana 第 21 行当 item 模版（它是 bold + underline），写完后用 repeatCell 统一把 D 列 item 行设成 bold=false、underline=false。
 - 不用蓝色底色（Hana 全部改白）。
 - 有竖向合并的行不要做 D:F 合并（会失败）。
 - Section 标题行不合并。

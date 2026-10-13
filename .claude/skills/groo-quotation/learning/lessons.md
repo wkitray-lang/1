@@ -15,6 +15,7 @@
 - 2026-10-12 [Hana] Powder vanity RM175/sqft，长宽超过 300 的部分进位到 0.5 sqft。
 
 ## 写法 / 结构
+- 2026-10-13 [Bromelia] Bold + underline 只给区域标题（房间 / outdoor），item 行一律普通字 —— 用户纠正。
 - 2026-10-13 [Bromelia] Landed 默认层高 3.0m，drop ceiling 300mm → 浴室墙砖贴到 2.7m。
 - 2026-10-13 [Bromelia] 冰箱位要做 tall unit 包冰箱（900W），算 1350/ft。
 - 2026-10-13 [Bromelia] 户外 / 半户外鞋柜用 plywood laminate（防潮）。
