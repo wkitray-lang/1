@@ -59,3 +59,11 @@
 | 供货 | kit kat 8.8 m² 1,261 + 600x1200 26 pcs @95 2,470 | 4,120 |
 | 地漏 / 门槛 | 137 | 654 |
 | 小计 | 15,048 | 18,018 |
+
+## Quotation R0（13 Oct 2026）
+- Sheet tab：`Quotation - Bromelia Puchong JY Ang`（sheetId 261016，报价号 261016），复制 Hana 格式
+- 客户：JY Ang，012-475 1285
+- 生成脚本：`build_quote.py`（body 行 15–161，公式保留成本）
+- Subtotal RM303,365.3；Discount −2%（沿用 Hana 模版）；Grand Total RM297,298.0
+- ⭐ 合计：五金 PS 5,000 + 人字拼木地板 49,390 + 自流平 4,041 = RM58,431
+- 估算待确认的单价：保护 1,500、清洁 800、油漆 4.5/sqft 地面积、天花油漆 1.2/sqft、浴室防潮板（按普通板 4.00）、主浴暗管 2,500、淋浴玻璃 2,400、人字拼 PC 55/sqft
