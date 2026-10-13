@@ -4,6 +4,8 @@
 `- YYYY-MM-DD [项目] 规则 —— 原因`
 
 ## 价格 / 毛利
+- 2026-10-13 [Bromelia] 新 7-Step Flow：ID 设计费 RM8/sqft（built-up），单独列在报价单最前面，PM 不算在设计费上。
+- 2026-10-13 [Bromelia] 付款条款：Landed 10/25/25/25/10/5（6 期），Condo<250k 10/40/30/15/5（5 期），描述要写 Step 编号。
 - 2026-10-13 [Bromelia] 拆旧砖 RM8/sqft（地 + 墙）。
 - 2026-10-12 [Hana] 天花毛利用 30%，不是 QS 指南的 45% —— Raymond 纠正。
 - 2026-10-12 [Hana] Smart home 只加 15%，按 AETHO 格式逐项列，不要 lump sum —— 用户说 lump sum 太随便。

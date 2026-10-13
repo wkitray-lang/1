@@ -67,3 +67,10 @@
 - Subtotal RM303,365.3；Discount −2%（沿用 Hana 模版）；Grand Total RM297,298.0
 - ⭐ 合计：五金 PS 5,000 + 人字拼木地板 49,390 + 自流平 4,041 = RM58,431
 - 估算待确认的单价：保护 1,500、清洁 800、油漆 4.5/sqft 地面积、天花油漆 1.2/sqft、浴室防潮板（按普通板 4.00）、主浴暗管 2,500、淋浴玻璃 2,400、人字拼 PC 55/sqft
+
+## R0 更新（7-Step Flow）
+- 加 ID 设计费：2,400 sqft × RM8 = RM19,200（行 15–17）
+- PM 1.5% 改为只算施工部分（K19:K165）
+- 付款条款改成 7-Step Flow Landed 6 期描述
+- 表头加 Est. Move-in: TBC
+- Subtotal RM322,565.3；Discount −2% −6,451.3；Grand Total RM316,114.0

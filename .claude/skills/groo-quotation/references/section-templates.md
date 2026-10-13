@@ -2,6 +2,10 @@
 
 报价单固定顺序。每个 section 下面列「必有行」和「常见行」。描述用英文，写清楚 supply / install / 品牌 / 尺寸 / 不含什么。
 
+## Interior Design Fee（最前面）
+必有：设计服务描述（moodboard、space planning、3D、2D 详图、材料规格、3D 定案后 revise 报价、施工期设计协调），qty `=C10`（built-up sqft），单价 RM8。
+附注：设计费包含在总价里，10% Engagement（含设计费）确认后启动设计阶段。
+
 ## Preliminaries
 必有：Site protection（地板、楼梯、门框保护膜）；Debris disposal & lorry；Final cleaning；Insurance / CIDB / permit（如需）。
 常见：Scaffolding（挑高区，RM3,500 L/S）；Hoarding；Temporary water & electricity。
