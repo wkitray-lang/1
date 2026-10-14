@@ -9,6 +9,7 @@
 | Dong Peng (DP Ceramic) | 瓷砖 | Ling Hua Bai 900×1800 RM250/片；50% 订金不退；交期 12 周 | 2026-10-09 | hana-residence/suppliers/2026-10-09_DongPeng_LingHuaBai.md |
 | Porter Rosewood (Sentul) | 工程木地板 / 楼梯 | Art Deco E30 RM51,200 / 1,647 sqft（含 10% 佣金）；安装 RM5+/sqft；楼梯踏板 RM13k–16k | 2026-10-09 | hana-residence/suppliers/2026-10-09_PorterRosewood_Flooring.md |
 | Curtain supplier | 窗帘 | 挑高电动升降 RM5,800；电动轨 RM1,500/层；含安装，不含鹰架 | 2026-10-11 | hana-residence/suppliers/2026-10-11_Curtain_DoubleVolume.md |
+| Little Builder Construction Supplies (Semenyih) | 石材台面 | Sintered stone M9020 Calacatta Gold RM140/ft run（台面和后墙同价）；下嵌盆开孔 100、炉头开孔 50；50% 订金，CASH | 2026-10-13 | sunway-dhill/suppliers/2026-10-13_LittleBuilder_TableTop.md |
 | AETHO | Smart home / CCTV / Wi-Fi / BGM / cinema | 见 AETHO breakdown sheet `1BN347SqaGhRQr3BvICcfjD3Cgmg-9FtQQXaKZaBVtgk` | 2026-10 | — |
 | AUPU | 浴室暖风机 / 抽风机 | MR009S 2,299；N50 899；BP15-6D 168；CKZ-26Q-A 2,999；安装 80 | 2026-10 | AUPU designer price list |
 | 景观分包 | Landscape | RM125,800（不含罗汉松）；softscape 24.7 m²；pebble 94.65 m²；stream 10.52 m² | 2026-10 | — |

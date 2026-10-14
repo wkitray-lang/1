@@ -46,3 +46,7 @@ Curtain,motorised track,layer,1500,2142.86,0.7,Curtain supplier,2026-10-11,
 Preliminaries,scaffolding,L/S,2450,3500,0.7,Groo,2026-10-11,double volume void
 Aircond,installation,set,,,0.75,QS guide,2026-10-12,CEILING(cost/0.75,5)
 WetWorks,hacking tiles,sqft,,8,,Groo,2026-10-13,hack floor & wall tiles incl. disposal
+TableTop,sintered stone top,ft,140,200,0.7,Little Builder,2026-10-13,M9020 Calacatta Gold per ft run; Groo sold 250/ft at D'Hill
+TableTop,backsplash,ft,140,200,0.7,Little Builder,2026-10-13,sintered stone per ft run
+TableTop,sink hole,nos,100,150,,Little Builder,2026-10-13,undermount sink hole
+TableTop,hob hole,nos,50,100,,Little Builder,2026-10-13,
